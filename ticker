@@ -1,0 +1,1 @@
+(wget http://localhost/tickah.php?password=my_password --output-file=wgetlog;sleep 60;./ticker)& >> log1

@@ -1,0 +1,65 @@
+#########################################################
+##                     WPAC
+##          Wassink Planetarion Clone
+##
+#########################################################
+<STYLE>
+A:active
+{
+    COLOR: white;
+    TEXT-DECORATION: none
+}
+A:link
+{
+    COLOR: white;
+    TEXT-DECORATION: underline
+}
+A:visited
+{
+    COLOR: white;
+    TEXT-DECORATION: underline
+}
+A:hover
+{
+    COLOR: white;
+    TEXT-DECORATION: none
+}
+BODY
+{
+	scrollbar-DarkShadow-Color: white;
+	scrollbar-Track-Color: white;
+	scrollbar-base-Color: white;
+	scrollbar-Shadow-Color: black;
+	scrollbar-Highlight-Color: #A7C86E;
+	scrollbar-3dLight-Color: black;
+	scrollbar-Arrow-Color: black;
+	background-color: #333333;
+}
+SELECT
+{
+    border: 1px solid;
+    font-family: verdana, arial, sans-serif;
+    font-size: 10px
+    background: #c8d8c8;
+}
+TEXTAREA
+{
+    border: 1px solid;
+    font-family: verdana, arial, sans-serif;
+    font-size: 10px
+    background: #c8d8c8;
+}
+TABLE
+{
+    font-size: 12px;
+    border: 0px solid;
+    border-color: gray;
+}
+INPUT
+{
+    border: 1px solid;
+    font-family: verdana, arial, sans-serif;
+    background: #999999;
+    font-size: 10px;
+}
+</STYLE>
