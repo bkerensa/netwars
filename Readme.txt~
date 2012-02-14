@@ -14,7 +14,7 @@ Modify dblogon.php if you have modified your MySQL login
 and password.
 
 Open http://localhost/install.php if you have unzipped
-the Netwars zip into your server root directory.
+the Wassink-Planetarion zip into your server root directory.
 
 If everything seems fine you should delete install.php.
 
